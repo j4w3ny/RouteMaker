@@ -12,6 +12,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "io.moumantai.routemaker",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
