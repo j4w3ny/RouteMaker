@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Button title="Find HELP" />
+      <Button title="FIND A FUNKY" />
     </View>
   );
 }
