@@ -1,5 +1,5 @@
-import { Button, Text, View } from "react-native";
-
+import { Text, View } from "react-native";
+import { Button } from "./components";
 export default function Index() {
   return (
     <View
@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Button title="FIND A FUNKY" />
+      <Button title="FIND A FUNKY" onPress={() => {}} mode="contained-tonal" />
     </View>
   );
 }
